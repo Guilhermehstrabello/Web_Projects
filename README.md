@@ -1,2 +1,2 @@
 # Web_Projects
-Projetos voltados para Front-End
+Todo tipo de projeto voltado para front-end
